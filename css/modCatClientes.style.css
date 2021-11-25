@@ -1,0 +1,16 @@
+.btnEditarCte, .btnBorrarCte {
+	font-size: 1px;
+	padding: 10px;
+	margin-right: 3px;
+}
+#msjAltaUsuario { 
+	display: none;
+	margin: auto;
+	padding: 2px;
+	border: 1px solid black;
+	text-align: center;
+	background-color: #F6CECE;
+	border-radius: 5px;
+	width: 70%;
+}
+.ctrlColorTR { background-color: #E6E6E6; }
